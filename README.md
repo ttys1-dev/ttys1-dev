@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ttys1-dev
+- 👀 I’m interested in Serial Communication
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @ttys1@infosec.exchange
